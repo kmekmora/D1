@@ -6,7 +6,7 @@ Demo 1 - Kyler Mekmorakoth 1837578
 - Knocking at the Door
 - Main Menu
 
-2+ audio assets (e.g. background music and a sound effect):
+2+ audio assets (e.g. background music and a sound effect): 
 -Portal_Continuous_Rumble.wav by zimbot
 https://freesound.org/s/122972/
 
@@ -15,7 +15,6 @@ https://freesound.org/s/267931/
 
 -hit_ouch.wav by zeteny_zpx
 https://freesound.org/s/474557/
-
 
 2+ image assets (one with transparent background):
 - Menu
@@ -41,3 +40,6 @@ https://freesound.org/s/474557/
 
 1+ object motion animation (e.g. sliding in from the side):
 - Eyeball flashing across scene
+
+*Sounds assets were edited in Acid Music Pro by Kyler Mekmorakoth*
+*Image assets were created in Krita by Kyler Mekmorakoth*
